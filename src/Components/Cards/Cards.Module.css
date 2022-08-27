@@ -1,0 +1,45 @@
+* {
+  background-color: #222222;
+  color: white;
+}
+.header-text {
+  font-size: 46px;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 30px;
+  padding: 15px;
+}
+.main-div {
+  display: flex;
+  margin-bottom: 40px;
+}
+.input-div p {
+  margin-bottom: 0;
+}
+.select-div p {
+  margin-bottom: 0;
+}
+.input-div input {
+  margin-right: 20px;
+  width: 200px;
+  color: #000;
+
+  background-color: white;
+}
+.select-div {
+  background: #fff;
+}
+.select-div select {
+  color: #000;
+  width: 100%;
+  height: 30px;
+  background-color: white;
+}
+.text-div div {
+  background: #303030;
+  padding: 50px;
+}
+.text-div span {
+  background-color: transparent;
+}
